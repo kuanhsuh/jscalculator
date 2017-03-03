@@ -1,0 +1,58 @@
+body {
+  background: url(https://source.unsplash.com/WLUHO9A_xik/1600x900)
+}
+h1 {
+  color: white;
+  font-family: 'Chewy', cursive;
+}
+.panel {
+  width: 300px;
+  height: 450px;
+  margin-top: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px 20px;
+  text-align: center;
+  border-radius: 10px;
+  opacity: 0.7;
+
+}
+.entry {
+  text-align: right;
+  padding-right: 10px;
+  margin-left: 35px;
+  font-size: 30px;
+  border: 1px solid #000;
+  border-radius: 10px;
+  width: 220px;
+  height: 90px;
+}
+#history{
+  font-size: 15px;
+}
+.left {
+  margin-left: -70px;
+}
+
+.invisible {
+  display: none;
+}
+.btn {
+  width: 50px;
+  height: 50px;
+  text-align: center;
+}
+
+
+#equalButton{
+  position: absolute;
+  margin-left: 3px;
+  margin-top: -60px;
+  height: 110px;
+}
+.row {
+  padding-bottom: 10px;
+}
+#zeroButton {
+  width: 105px;
+}
