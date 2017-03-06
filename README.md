@@ -5,6 +5,9 @@
 
 - [x] User Story: I can keep chaining mathematical operations together until I hit the equal button, and the calculator will tell me the correct output.
 
+Codepen link [http://codepen.io/dannyhuang/pen/LWNdzG](http://codepen.io/dannyhuang/pen/LWNdzG)
+
+
 ### Additional Features
 
 - [x] User can't duplicate operators
